@@ -1,7 +1,6 @@
 import React from 'react';
 
-export default () => {
-	return (
+export default () => 
 		<div>
 			Super Special Secret Recipe
 			<ul>
@@ -9,6 +8,4 @@ export default () => {
 				<li>1 cup shurikens</li>
 				<li>1 spoon super special sauce</li>
 			</ul>
-		</div>
-	);
-};
+		</div>;
